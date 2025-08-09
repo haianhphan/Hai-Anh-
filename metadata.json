@@ -1,0 +1,6 @@
+{
+  "name": "Form Generator 2 (PDF OCR + Fill in adapted to dropdown)",
+  "description": "An AI-powered tool that instantly converts your text, notes, or documents into a structured Google Form. Just paste your content or upload a file, and let the AI build the form for you.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
